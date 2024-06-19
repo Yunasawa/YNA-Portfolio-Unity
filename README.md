@@ -20,6 +20,11 @@
 > 
 > Thank for taking a look on my portfolio, enjoy!
 
+<br>
+
+> [!Warning]
+> Some of the portfolios are PDF, so you may need to download and open them from local for best experience.
+
 <h2> ⭐ Contents </h2>
 
 <details>
