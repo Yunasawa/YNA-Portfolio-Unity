@@ -14,13 +14,16 @@
 
 <h2> ⭐ Explanation and Showcase </h2>
 
-<h3><a id=pentool> 🔧 Pen Tool </a></h3>
+<details>
+<summary><h3><a id=pentool> 🎨 Pen Tool </a></h3></summary>
 
 <b> ▶ Default Pen Tool & Rotating Function: </b>
 <video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/e37a00cc-cb9d-4642-8e27-6ef019b78ee0" width=100%>Pen Tool - Settings</video>
 
 <b> ▶ Pen Settings: Size </b>
 <video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/086da946-d2fc-4b19-bc6a-77fbd243673b" width=100%>Pen Tool - Settings</video>
+
+</details>
 
 <h3><a id=erasertool> 🔧 Eraser Tool </a></h3>
 <h3><a id=pickertool> 🔧 Picker Tool </a></h3>
