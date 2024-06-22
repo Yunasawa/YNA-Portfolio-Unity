@@ -6,8 +6,6 @@
 > [!Note]
 > This game was originally made as a tool to create map for my Action RPG project. But i found 
    this is good enough to become a full game.
-> 
-> Thank for taking a look on my portfolio, enjoy!
 
 <h2> ⭐ Table of contents </h2>
 
