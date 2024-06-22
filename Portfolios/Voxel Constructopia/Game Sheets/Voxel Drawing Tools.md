@@ -58,6 +58,15 @@
 <details>
 <summary><h3><a id=selecttool> 🎨 Select Tool </a></h3></summary>
 
+<b> ▶ Select Tool: </b> Use Left Click to select only one voxel, Left Ctrl + Left Click to select multiple voxels and Left Shift + Left Click to select voxels in a range.
+<video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/659768f8-73ff-4747-b670-efd70fc35acc" width=100%>Pen Tool - Settings</video>
+
+<b> ▶ Select Settings - Marked Voxel: </b> Enable this will only select the same voxel as which you select at the first time.  
+<video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/a1b8d7a5-14fb-4735-a2e4-fbd35bbad81f" width=100%>Pen Tool - Settings</video>
+
+<b> ▶ Select Functions - Copy / Paste: </b> Use Left Ctrl + C / V to Copy / Paste the selected voxels.  
+<video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/ca233c8e-6a8b-4a0e-b13a-d58174e2aca2" width=100%>Pen Tool - Settings</video>
+
 </details>
   
 
