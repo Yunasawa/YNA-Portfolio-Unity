@@ -17,7 +17,7 @@
 <details>
 <summary><h3><a id=pentool> 🎨 Pen Tool </a></h3></summary>
 
-<b> ▶ Default Pen Tool & Rotating Function: </b>
+<b> ▶ Default Pen Tool & Rotating Function: </b> Use Left Ctrl + Right Click to place voxels and R to rotate.
 <video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/e37a00cc-cb9d-4642-8e27-6ef019b78ee0" width=100%>Pen Tool - Settings</video>
 
 <b> ▶ Pen Settings: Size </b>
@@ -28,7 +28,7 @@
 <details>
 <summary><h3><a id=erasertool> 🎨 Eraser Tool </a></h3></summary>
 
-<b> ▶ Default Eraser Tool: </b>
+<b> ▶ Default Eraser Tool: </b> Use Left Ctrl + Left Click to remove voxels.
 <video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/ad1f85d4-bd85-4ab7-bfec-9ab6da1fc712" width=100%>Pen Tool - Settings</video>
 
 <b> ▶ Eraser Settings: Size </b>
@@ -39,7 +39,7 @@
 <details>
 <summary><h3><a id=pickertool> 🎨 Picker Tool </a></h3></summary>
 
-<b> ▶ Default Picker Tool: </b>
+<b> ▶ Default Picker Tool: </b> Use Left Click to pick the needed voxel, expand the Settings View to see the currently pointing voxel. Once pick the voxel, the tool will be switch into Pen Tool with the picked voxel. 
 <video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/fe7ccffb-be5f-45a3-a287-310deb10082d" width=100%>Pen Tool - Settings</video>
 
 </details>
