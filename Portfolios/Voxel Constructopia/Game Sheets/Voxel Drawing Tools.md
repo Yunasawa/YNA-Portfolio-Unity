@@ -39,6 +39,9 @@
 <details>
 <summary><h3><a id=pickertool> 🎨 Picker Tool </a></h3></summary>
 
+<b> ▶ Default Picker Tool: </b>
+<video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/fe7ccffb-be5f-45a3-a287-310deb10082d" width=100%>Pen Tool - Settings</video>
+
 </details>
   
 <details>
