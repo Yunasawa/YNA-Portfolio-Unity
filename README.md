@@ -55,8 +55,9 @@
 
 <details>
 <summary><h3> <img align="upper" src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/> Unity Games, Apps and Prototypes</h3></summary>
-</details>
 
 <ul>
   <li> <a href="https://github.com/Yunasawa/YNA-Portfolio-Unity/blob/main/Portfolios/Voxel%20Constructopia/Voxel%20Constructopia%20-%20Portfolio.md" title="Download" download><b>YNG - Voxel Constructopia:</b></a><i>  </i></li>
 </ul>
+ 
+</details>
