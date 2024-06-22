@@ -47,6 +47,12 @@
 <details>
 <summary><h3><a id=fillertool> 🎨 Filler Tool </a></h3></summary>
 
+<b> ▶ Default Filler Tool: </b> Use Left Ctrl + Right Click to fill the blank area, this will only works for an enclosed area.
+<video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/bb4a0d31-5fac-48d7-8a7a-40ec2329dcb4" width=100%>Pen Tool - Settings</video>
+
+<b> ▶ Filler Settings - Max Voxel: </b> This is the maximum amount of voxels you can use to fill the blank areas. 
+<video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/d9ffd4b3-94ba-497b-9eaa-74a565953a98" width=100%>Pen Tool - Settings</video>
+
 </details>
   
 <details>
