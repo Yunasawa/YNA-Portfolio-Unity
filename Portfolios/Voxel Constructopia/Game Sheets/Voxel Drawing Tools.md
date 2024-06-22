@@ -16,7 +16,7 @@
 
 <h3><a id=pentool> 🔧 Pen Tool </a></h3>
 
-<video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/2dc30cb9-d9b7-409d-b4a9-95e94800bf44"></video>
+<video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/2dc30cb9-d9b7-409d-b4a9-95e94800bf44">Pen Tool - Settings</video>
 
 <h3><a id=erasertool> 🔧 Eraser Tool </a></h3>
 <h3><a id=pickertool> 🔧 Picker Tool </a></h3>
