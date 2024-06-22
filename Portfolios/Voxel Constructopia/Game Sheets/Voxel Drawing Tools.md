@@ -6,12 +6,16 @@
 <h2> ⭐ Available Tools </h2>
 <tr>
   <li> <b><a href=#pentool>Pen Tool</a></b>: Draw one or more voxels </li>
-  <li> <b>Eraser Tool</b>: Erase one or more voxels </li>
-  <li> <b>Picker Tool</b>: Pick the needed voxel </li>
-  <li> <b>Filler Tool</b>: Fill the blank areas </li>
-  <li> <b>Select Tool</b>: Select the wanted voxels </li>
+  <li> <b><a href=#erasertool>Eraser Tool</a></b>: Erase one or more voxels </li>
+  <li> <b><a href=#pickertool>Picker Tool</a></b>: Pick the needed voxel </li>
+  <li> <b><a href=#fillertool>Filler Tool</a></b>: Fill the blank areas </li>
+  <li> <b><a href=#selecttool>Select Tool</a></b>: Select the wanted voxels </li>
 </tr>
 
 <h2> ⭐ Explanation and Showcase </h2>
 
 <h3><a id=pentool> 🔧 Pen Tool </a></h3>
+<h3><a id=erasertool> 🔧 Pen Tool </a></h3>
+<h3><a id=pickertool> 🔧 Pen Tool </a></h3>
+<h3><a id=fillertool> 🔧 Pen Tool </a></h3>
+<h3><a id=selecttool> 🔧 Pen Tool </a></h3>
