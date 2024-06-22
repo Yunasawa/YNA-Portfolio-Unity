@@ -56,5 +56,5 @@
 </details>
 
 <ul>
-  <li> <a href="https://github.com/Yunasawa/YNA-Portfolio-Unity/blob/main/Portfolios/Voxel%20Constructopia/Test.pdf" title="Download" download><b>YNG - Voxel Constructopia:</b></a><i>  </i></li>
+  <li> <a href="https://github.com/Yunasawa/YNA-Portfolio-Unity/blob/main/Portfolios/Voxel%20Constructopia/Voxel%20Constructopia%20-%20Portfolio.md" title="Download" download><b>YNG - Voxel Constructopia:</b></a><i>  </i></li>
 </ul>
