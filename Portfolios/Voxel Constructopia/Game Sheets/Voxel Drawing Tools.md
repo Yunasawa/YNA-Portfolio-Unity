@@ -28,6 +28,12 @@
 <details>
 <summary><h3><a id=erasertool> 🎨 Eraser Tool </a></h3></summary>
 
+<b> ▶ Default Eraser Tool: </b>
+<video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/ad1f85d4-bd85-4ab7-bfec-9ab6da1fc712" width=100%>Pen Tool - Settings</video>
+
+<b> ▶ Eraser Settings: Size </b>
+<video src="https://github.com/Yunasawa/YNA-Portfolio-Unity/assets/113672166/b61ad24c-25cd-4c15-909b-6a35d7e1ea1a" width=100%>Pen Tool - Settings</video>
+
 </details>
   
 <details>
@@ -45,4 +51,5 @@
 
 </details>
   
+
 
