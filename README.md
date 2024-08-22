@@ -36,6 +36,7 @@
   <li> <a href="https://github.com/Yunasawa/YNL-Editor"><b>YNL - Editor:</b></a><i> Enhance your Unity Editor experience with this toolkit. It provides essential extensions and interfaces specifically designed for the Editor environment. </i></li>
   <li> <a href="https://github.com/Yunasawa/YNL-Utilities"><b>YNL - Utilities:</b></a><i> Boost productivity in both the Unity Editor and built applications using this versatile toolkit. It offers a range of utilities and extensions to streamline your workflow. </i></li>
   <li> <a href="https://github.com/Yunasawa/YNL-Audio"><b>YNL - Audio:</b></a><i> Simplify audio management in your Unity projects with this toolkit. It includes helpful extensions tailored for audio systems. </i></li>
+ <li> <a href="https://github.com/Yunasawa-Studio/YNL-Effect"><b>YNL - :</b></a><i> Elevate your Unity projects with stunning visual effects! This comprehensive toolkit provides shaders, particle systems, and enchantments for dynamic spell effects, realistic lighting, and mesmerizing animations. </i></li>
 </ul>
 
 <br>
