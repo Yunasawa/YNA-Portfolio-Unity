@@ -30,7 +30,7 @@
 <h2> ⭐ Contents </h2>
 
 <details>
-<summary><h3> <img align="upper" src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/> Unity Editor Tools and Extensions</h3></summary>
+<summary><h3> <img align="upper" src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/> Unity Tools, Utilities and Extensions</h3></summary>
 
 <ul>
   <li> <a href="https://github.com/Yunasawa/YNL-Editor"><b>YNL - Editor:</b></a><i> Enhance your Unity Editor experience with this toolkit. It provides essential extensions and interfaces specifically designed for the Editor environment. </i></li>
