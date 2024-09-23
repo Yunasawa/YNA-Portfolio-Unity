@@ -33,7 +33,7 @@
 <summary><h3> <img align="upper" src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/> Unity Tools, Utilities and Extensions</h3></summary>
 
 <ul>
-  <li> <a href="https://github.com/Yunasawa/YNL-Editor--Obsoleted"><b>YNL - Editor (Obsoleted):</b></a><i> Obsolete version of 2 separate package <b>YNL - Editor</b> and <b>YNL - General Toolbox</b> </i></li>
+  <li> <a href="https://github.com/Yunasawa/YNL-Editor--Obsoleted"><b>YNL - Editor (Obsoleted):</b></a><i> Obsolete version of 2 separate packages <b>YNL - Editor</b> and <b>YNL - General Toolbox</b> </i></li>
 </ul>
 
 <br>
