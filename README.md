@@ -39,6 +39,7 @@
 <br>
 
 <ul>  
+  <li> <a href="https://github.com/Yunasawa-Studio/YNL-Editor"><b>YNL - Editor:</b></a><i> Enhance your Unity Editor experience with this library. It provides essential extensions and interfaces specifically designed for the Editor environment. </i></li>
   <li> <a href="https://github.com/Yunasawa/YNL-Utilities"><b>YNL - Utilities:</b></a><i> Boost productivity in both the Unity Editor and built applications using this versatile toolkit. It offers a range of utilities and extensions to streamline your workflow. </i></li>
   <li> <a href="https://github.com/Yunasawa/YNL-Audio"><b>YNL - Audio:</b></a><i> Simplify audio management in your Unity projects with this toolkit. It includes helpful extensions tailored for audio systems. </i></li>
   <li> <a href="https://github.com/Yunasawa-Studio/YNL-Effect"><b>YNL - Effect:</b></a><i> Elevate your Unity projects with stunning visual effects! This comprehensive toolkit provides shaders, particle systems, and enchantments for dynamic spell effects, realistic lighting, and mesmerizing animations. </i></li>
@@ -47,6 +48,7 @@
 <br>
 
 <ul>
+  <li> <a href="https://github.com/Yunasawa-Studio/YNL-General-Toolbox"><b>YNL - General Toolbox:</b></a><i> Empower your Unity projects with this comprehensive toolbox. Designed for versatility, it provides essential tools to enhance your development process and boost productivity across various tasks. </i></li>
   <li> <a href="https://github.com/Yunasawa-Studio/YNL-Simple-AI-System"><b>YNL - Simple AI System:</b></a><i> Implement basic AI behaviors effortlessly using this straightforward toolkit. It’s designed to handle object behaviors and interactions. </i></li>
   <li> <a href=""><b>YNL - Runtime Command:</b></a><i> (Comming soon) A versatile tool serves as a command console for players, a debugging ally for testers, and a real-time control hub for developers. </i></li>
 </ul>
