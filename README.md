@@ -14,9 +14,9 @@
 > 
 > I mainly targeting the techniques and skills for multiple genre of games. So that my projects are diverse of usages and purposes.
 >
-> I like to handle "tough row and hoe" genres such as <b>Action RPG, Open World, Souls-like, Sandbox, etc </b> and also <b> Unity Editor tools </b>
+> I like to handle "tough row and hoe" genres such as <b>Action RPG, Open World, Souls-like, Sandbox, etc </b> and also <b> Unity Editor tools. </b>
 >
-> One more thing, I am a developer, not a designer or an artist, so the UX/UI of those games and tools may cause unexpected discomfort. Anyway, I did my best to make it as good as possible.
+> One more thing, I am a developer, not a designer or an artist, so the UX/UI of those games and tools may cause unexpected discomfort. Anyway, I did my best to make it as good as possible. If you have a better design, please tell me so I can improve my products.
 > 
 > Thank for taking a look on my portfolio, enjoy!
 
