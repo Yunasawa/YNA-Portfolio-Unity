@@ -12,7 +12,7 @@
 > [!Note]
 > This portfolio showcases the games and projects I've built, highlighting my skills I gained during my developing progress. I'm always tinkering and learning new ways to push the boundaries within the Unity engine.
 > 
-> I mainly targeting the techniques and skills for multiple genre of games. So that my projects are not about the amount, they are about the qualification and scale.
+> I mainly targeting the techniques and skills for multiple genre of games. So that my projects are diverse of usages and purposes.
 >
 > I like to handle "tough row and hoe" genres such as <b>Action RPG, Open World, Souls-like, Sandbox, RTS, etc </b> and also <b> Unity Editor tools </b>
 >
