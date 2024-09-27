@@ -29,8 +29,7 @@
 
 <h2> ⭐ Contents </h2>
 
-<details>
-<summary><h3> <img align="upper" src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/> Unity Tools, Utilities and Extensions</h3></summary>
+<h3> <img align="upper" src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/> Unity Tools, Utilities and Extensions</h3>
 
 <ul>
   <li> <a href="https://github.com/Yunasawa/YNL-Editor--Obsoleted"><b>YNL - Editor (Obsoleted):</b></a><i> Obsolete version of 2 separate packages <b>YNL - Editor</b> and <b>YNL - General Toolbox</b> </i></li>
@@ -59,13 +58,8 @@
   <li> <a href=""><b>YNL - Map And Compass:</b></a><i> (Comming soon) Navigate your virtual world with ease, displaying real-time location, tracking waypoints, orienting cardinal directions, and showcasing targets. </i></li>
 </ul>
 
-</details>
-
-<details>
-<summary><h3> <img align="upper" src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/> Unity Games, Apps and Prototypes</h3></summary>
+<h3> <img align="upper" src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/> Unity Games, Apps and Prototypes</h3>
 
 <ul>
   <li> <a href="https://github.com/Yunasawa/YNA-Portfolio-Unity/blob/main/Portfolios/Voxel%20Constructopia/Voxel%20Constructopia%20-%20Portfolio.md" title="Download" download><b>YNG - Voxel Constructopia:</b></a><i> (Comming soon) An innovative application designed for easily drawing, brushing, and creating detailed world maps added to YNG - ZTOS. </i></li>
 </ul>
- 
-</details>
