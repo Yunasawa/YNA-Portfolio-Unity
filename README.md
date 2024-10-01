@@ -50,6 +50,7 @@
   <li> <a href="https://github.com/Yunasawa-Studio/YNL-General-Toolbox"><b>YNL - General Toolbox:</b></a><i> Empower your Unity projects with this comprehensive toolbox. Designed for versatility, it provides essential tools to enhance your development process and boost productivity across various tasks. </i></li>
   <li> <a href="https://github.com/Yunasawa-Studio/YNL-Simple-AI-System"><b>YNL - Simple AI System:</b></a><i> Implement basic AI behaviors effortlessly using this straightforward toolkit. It’s designed to handle object behaviors and interactions. </i></li>
   <li> <a href=""><b>YNL - Extensions Explorer:</b></a><i> (Comming soon) Browse, search, and manage the extensions effortlessly. With its intuitive interface and powerful search capabilities, you can provide your user a explorer for all your methods, help them to work things out. </i></li>
+  <li> <a href=""><b>YNL - Package Manager:</b></a><i> (Comming soon) Install, uninstall, and manage multiple packages, including YNL packages, effortlessly. Create your custom packages data and manage define symbols with ease to enhance your development workflow. </i></li>
 </ul>
 
 <br>
